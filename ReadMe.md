@@ -19,9 +19,7 @@
 
 <br/>  
 
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
+Greeting  
   
 
 ### <div align="center">I'm Anand Singh, a full-time Web Developer 👨‍💻 </div>  
