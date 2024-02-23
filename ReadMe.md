@@ -19,7 +19,7 @@
 
 <br/>  
 <div align="center">
-**Greeting**
+Greeting
 </div>
 
 ### <div align="center">I'm Anand Singh, a full-time Web Developer 👨‍💻 </div>  
