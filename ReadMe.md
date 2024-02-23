@@ -18,7 +18,7 @@
 </td></tr></table></details>  
 
 <br/>  
-<div align="center">
+<div align="center" font="bold">
 Greeting  
 </div> 
 
