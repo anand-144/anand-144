@@ -131,17 +131,3 @@ Greeting
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31hbr7q5lcd4q2xwumh4muo4ruvm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" /></div>  
 
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Anand Singh&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-<div align="center"></div>
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
