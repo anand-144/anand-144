@@ -91,7 +91,7 @@ Greeting
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
 <a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" /></a>  
 <a href="https://rapidapi.com/" target="_blank"><img style="margin: 10px" src="https://your-rapidapi-image-url-here" alt="RapidAPI" height="50" /></a>
-<a href="https://www.postman.com/" target="_blank"><img style="margin: 10px" src="https://w7.pngwing.com/pngs/28/245/png-transparent-postman-hd-logo-thumbnail.png" alt="Postman" height="50" /></a>
+<a href="https://www.postman.com/" target="_blank"><img style="margin: 10px" src="https://i0.wp.com/cynosys.com/wp-content/uploads/2019/06/postman-logo.png?fit=800%2C500&ssl=1" alt="Postman" height="50" /></a>
 </div>
 
 </td></tr></table>  
