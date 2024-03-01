@@ -127,10 +127,5 @@ Greeting
 <br/>  
 
 
-## Recent Blog Posts  
-  
-
-<br/>  
-
 
 
