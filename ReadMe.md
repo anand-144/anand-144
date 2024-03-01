@@ -120,11 +120,12 @@ Greeting
 
 
 ## Github Stats  
+
 <img src="https://github-readme-stats.vercel.app/api?username=AnandSingh&show_icons=true&count_private=true&hide_border=true" align="left" />  
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnandSingh&hide_border=true&layout=compact" align="left" />  
+<!-- Update 'langs_count' to change the number of languages displayed -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnandSingh&langs_count=6&hide_border=true&layout=compact" align="left" />  
 
-<br/>  
 
 
 
