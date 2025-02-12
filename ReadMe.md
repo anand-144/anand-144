@@ -90,7 +90,7 @@ Greeting
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
 <a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" /></a>  
-<a href="https://rapidapi.com/" target="_blank"><img style="margin: 10px" src="https://pbs.twimg.com/profile_images/1590021763823734785/gRr2Ifrm_400x400.jpg" alt="RapidAPI" height="50" /></a>
+<a href="https://rapidapi.com/" target="_blank"><img style="margin: 10px" src="[https://pbs.twimg.com/profile_images/1590021763823734785/gRr2Ifrm_400x400.jpg](https://avatars.githubusercontent.com/u/16919504?s=280&v=4)" alt="RapidAPI" height="50" /></a>
 <a href="https://www.postman.com/" target="_blank"><img style="margin: 10px" src="https://i0.wp.com/cynosys.com/wp-content/uploads/2019/06/postman-logo.png?fit=800%2C500&ssl=1" alt="Postman" height="50" /></a>
 </div>
 
