@@ -28,7 +28,7 @@ Greeting
 - 📝 I’m currently learning Full Stack Developement  
   
 
-- 💻I’m looking to collaborate on Full Stack Developer  
+- 💻I’m looking to collaborate with Full Stack Developer  
   
 
 - ❓ Ask me about anything related to technologies  
